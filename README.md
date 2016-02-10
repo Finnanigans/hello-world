@@ -1,2 +1,2 @@
 # hello-world
-first repository for a programming student working on getting better
+Programming student with a little experience, working on improving.
